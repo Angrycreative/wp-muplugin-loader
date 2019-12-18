@@ -1,5 +1,5 @@
 {
-	"name" : "lkwdwrd/wp-muplugin-loader",
+	"name" : "angrycreative/wp-muplugin-loader",
 	"version" : "1.0.6",
 	"description" : "A drop-in MU Plugin loader for WordPress",
 	"keywords" : ["wordpress", "muplugin", "loader"],
